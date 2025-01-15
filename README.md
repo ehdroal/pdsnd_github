@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Bikeshare Analysis Project #
+=======
+# Bikeshare Analysis Project
+>>>>>>> documentation
 
 ## Overview
 This project provides an interactive tool for analyzing bikeshare data from Chicago, New York City, and Washington. Users can filter the data by months, days of the week, and view peak usage hours with visualizations. The updated version includes enhanced analysis features and visual outputs.
